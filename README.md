@@ -13,15 +13,11 @@ Welcome to my GitHub! I’m a curious and creative developer who thrives at the 
   - Civilization simulators where tiny humans evolve in a player-modified world.
   - Strategy and PvP games with construction, sabotage, and tower warfare.
 - **Procedural Generation Fan**: I’ve coded random cities, urbex maps, and Lego Worlds-style terrain.
-- **Infinite Craft-like UI**: Drag-and-drop fusion systems with AI-based logic.
-
-### System-Level Engineering
+### System-Level (Engineering
 - **C++ Developer**: With a love for bitwise logic and performance.
   - Created a fully customizable **chess engine** ("Mooncat") with bitboards and FEN parsing.
   - Working on a **Rubik’s Cube simulator**, both 2D and 3D, using OpenGL + GLFW + GLAD.
-- **OpenGL Projects**:
-  - Arcball camera, FPS camera, FreeType text, textured buttons, and shader management.
-  - Realistic 3D urbex exploration with SDL2 + GLM + lighting.
+- **I LOVE OPEN GL**
 
 ### Custom Languages & Tools
 - **X# & XASM**: Assembly-like languages for a Minecraft-style CPU with pixel-based outputs.
@@ -37,6 +33,7 @@ Welcome to my GitHub! I’m a curious and creative developer who thrives at the 
 - **Computer Architecture**: Designing CPUs and low-level systems from scratch.
 - **Rubik’s Cube**: Expert-level solver and simulator developer.
 - **Biotech, Space, and AI**: Especially how they're coded and simulated in virtual environments.
+- **Procedural Terrains**: These are so cool! Creating magic terrains with just code! 
 
 ---
 
@@ -46,14 +43,14 @@ Welcome to my GitHub! I’m a curious and creative developer who thrives at the 
 `C++` | `Lua` | `Python` | `X#` | `GLSL` | `TypeScript`
 
 **Engines & APIs**:  
-`Roblox Studio` | `OpenGL` | `GLFW` | `GLAD` | `FreeType` | `SDL2`
+`Roblox Studio` | `OpenGL` | `GLFW` | `GLAD` | `ImGui` | `SDL2`
 
 **Tools**:  
 `Visual Studio Code` | `MSYS2` | `VSCode Extension Dev` | `Git` | `CMake`
 
 **Other Skills**:  
-Bitboards, 3D math, procedural generation, UI/UX in games, hotkey systems, file-based configs
-
+Binary, 3D math, procedural generation, UI/UX in games, hotkey systems, file-based configs
+I also love solving rubiks cubes blindfolded!
 ---
 
 ## 📫 Let’s Connect!
