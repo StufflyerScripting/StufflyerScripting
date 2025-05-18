@@ -40,7 +40,7 @@ Welcome to my GitHub! I’m a curious and creative developer who thrives at the 
 ## 🛠️ Tech Stack
 
 **Languages**:  
-`C++` | `Lua` | `Python` | `X#` | `GLSL` | `TypeScript`
+`C++` | `Lua` | `Python` | `X#` | `GLSL` | `TypeScript` | `JavaScript` | `Java`
 
 **Engines & APIs**:  
 `Roblox Studio` | `OpenGL` | `GLFW` | `GLAD` | `ImGui` | `SDL2`
