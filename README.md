@@ -6,6 +6,9 @@ Welcome to my GitHub! I’m a curious and creative developer who thrives at the 
 
 ## 🔧 What I Do
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StufflyerScripting&layout=compact)
+
+
 ### Game Development
 - **Roblox Creator**: I’ve built unique experiences like:
   - A 3D Gartic Phone game with synchronized teleport/build mechanics.
