@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a curious and creative developer who thrives at the 
 
 ## 🔧 What I Do
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StufflyerScripting&layout=compact&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StufflyerScripting&layout=compact&langs_count=8)
 
 
 ### Game Development
